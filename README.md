@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @most-of-a-shark
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning analyzing network traces using Python.
+- 🌱 I’m currently exploring analyzing network traces using Python.
 - 📫 How to reach me on mshakr@live.com
 
 <!---
